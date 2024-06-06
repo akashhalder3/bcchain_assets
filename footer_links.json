@@ -1,0 +1,73 @@
+[
+    {
+      "title": "BC Hyper",
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://www.versatizecoin.com/"
+        },
+        {
+          "text": "Governance",
+          "url": "#"
+        },
+        {
+          "text": "Bridge",
+          "url": "#"
+        },
+        {
+          "text": "Ecosystem",
+          "url": "#"
+        },
+        {
+          "text": "Journey",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "#"
+        },
+        {
+          "text": "Grants",
+          "url": "#"
+        },
+        {
+          "text": "Faucet",
+          "url": "#"
+        },
+        {
+          "text": "GitHub",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Discord",
+          "url": "#"
+        },
+        {
+          "text": "Twitter",
+          "url": "#"
+        },
+        {
+          "text": "Telegram",
+          "url": "#"
+        },
+        {
+          "text": "Blog",
+          "url": "#"
+        },
+        {
+          "text": "Events",
+          "url": "#"
+        }
+      ]
+    }
+  ]
