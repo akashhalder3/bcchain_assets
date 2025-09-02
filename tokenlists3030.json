@@ -118,12 +118,28 @@
       "logoURI": "https://bchscan.io/images/cor.png"
     },
     {
-      "name": "GGold Coin",
+      "name": "Gold Coin",
       "symbol": "GLC",
       "address": "0xF9094d752e8783FFD5F42d53e24ADE80BC2980d8",
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/glc.png"
+    },
+    {
+      "name": "Global Business Token",
+      "symbol": "GBTN",
+      "address": "0x2e2732c071FD433b370d20c49C636f662479106A",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/gbtn.png"
+    },
+    {
+      "name": "Crypto Play Token",
+      "symbol": "CPTN",
+      "address": "0x108E88cf1E3BA49E3Ce76143cB47E9847F8efaFC",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/cptn.png"
     }
   ]
 }
