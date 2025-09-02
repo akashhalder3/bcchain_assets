@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-09-01T10:05:42.714Z",
+  "name": "BCSWAP Extended",
+  "version": { "major": 2, "minor": 16, "patch": 524 },
+  "logoURI": "https://bchscan.io/images/logo.png",
+  "keywords": ["BCSWAP", "extended"],
+  "tokens": [
+    {
+      "name": "Nature Coin",
+      "symbol": "NTCN",
+      "address": "0x84dE490c00c71a9D131c4caae797144632F56dB6",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/ntcn.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xFe50b757a3336926207463Baa913D5723f2807fa",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/usdt.png"
+    },
+    {
+      "name": "Versatize USD",
+      "symbol": "VUSD",
+      "address": "0xe71AA2666226fec953D6FA3B783E0F729022B6FF",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/vusd.png"
+    },
+     {
+      "name": "Stable Versatize",
+      "symbol": "SVTCN",
+      "address": "0xC8a979A9fd8315cc82c7724a3D8FDCc65256E4C1",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/svtcn.png"
+    }
+    
+  ]
+}
