@@ -108,6 +108,22 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/blc.png"
+    },
+    {
+      "name": "Coinora",
+      "symbol": "COR",
+      "address": "0xfCa0C5153372e2c84310599c89e51E8609dfc9FF",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/cor.png"
+    },
+    {
+      "name": "GGold Coin",
+      "symbol": "GLC",
+      "address": "0xF9094d752e8783FFD5F42d53e24ADE80BC2980d8",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/glc.png"
     }
   ]
 }
