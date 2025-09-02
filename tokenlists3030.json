@@ -29,14 +29,85 @@
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/vusd.png"
     },
-     {
+    {
       "name": "Stable Versatize",
       "symbol": "SVTCN",
       "address": "0xC8a979A9fd8315cc82c7724a3D8FDCc65256E4C1",
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/svtcn.png"
+    },
+    {
+      "name": "Wrapped VTCN",
+      "symbol": "WVTCN",
+      "address": "0x1150Fd1335B0a53347f8Bfb763729a99FbEAB2Ef",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "BCSwap V2",
+      "symbol": "BCS-V2",
+      "address": "0x2d544e2de729f49ed220F7daa937D11C8c21700c",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "ADITYA COIN",
+      "symbol": "ADI",
+      "address": "0x54044546485517FDC15508B01C4569d577f138c2",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/adi.png"
+    },
+    {
+      "name": "AI Coin World",
+      "symbol": "ACW",
+      "address": "0x4554CfA23CC1d1ab3722803BAEC8c1410a6a2D96",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/acw.png"
+    },
+    {
+      "name": "APEX COIN",
+      "symbol": "APX",
+      "address": "0x5A3481a7325E562118cBb49b5bD31b99a8d015b3",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/apx.png"
+    },
+    {
+      "name": "Aurora Coin",
+      "symbol": "ARC",
+      "address": "0x86e72757C9623D54f79f08CC910cc643FD4c442e",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Aurum Coin",
+      "symbol": "ACM",
+      "address": "0x45cD9DdC15C95F360a500B29E38c497861dD0792",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "BC CASH",
+      "symbol": "BCCH",
+      "address": "0xA61bf608061F0b818f5aC077C7854cBc81B6285e",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/bcch.png"
+    },
+    {
+      "name": "BLOOM COIN",
+      "symbol": "BLC",
+      "address": "0x17A1C3a406E5D3d7E1277864eFdE34B34581da10",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/blc.png"
     }
-    
   ]
 }
