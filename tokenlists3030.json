@@ -148,6 +148,214 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/ppcn.png"
+    },
+    {
+      "name": "Bolt Coin",
+      "symbol": "BLT",
+      "address": "0x4bC7D024a484441Fb99bDCdFC74028F146B234A5",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Cedrix",
+      "symbol": "CDR",
+      "address": "0x44eEF3639b29805bF1e9bb49b3a1b003Dc1e3092",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Chain Edge",
+      "symbol": "CEG",
+      "address": "0x9d2895921C00d5dD988E192d7392D10636b58991",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Axis",
+      "symbol": "CAX",
+      "address": "0xaa1f87e92A830Ec575450B2978bec91855c639F0",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Cube",
+      "symbol": "CCB",
+      "address": "0x2d18689CE288ee53a696f8c3ad623ecFDF29C157",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coinexa",
+      "symbol": "CEX",
+      "address": "0xc1160a2c970A7E3eE259aC1F7A2a30416263D342",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Flow",
+      "symbol": "CFW",
+      "address": "0xBf41df4b4E16892437A596b34eD8876bB9A086a4",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coinish",
+      "symbol": "CNS",
+      "address": "0x32C67A0135471EBb5F5d07443468dA8578A4dA59",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "CoinJet",
+      "symbol": "CNJ",
+      "address": "0x7e853c8EED63EAdb7FB78963e0648Aa05450618A",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Rise",
+      "symbol": "CRS",
+      "address": "0x2E1076e1bb93d570353d1B6f2E5E77AFD005e309",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Spark",
+      "symbol": "CSK",
+      "address": "0xED64a61dC08375370e50f4C4F17DF0b6CFfB07DA",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Vibe",
+      "symbol": "CVB",
+      "address": "0xCeD42CFe1D0ceCf920ab6208346750ce5D849523",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin Wave",
+      "symbol": "CVW",
+      "address": "0x6Dbd14dEA7F4cF03A81490812723Dcc4e8BCfa93",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Coin World",
+      "symbol": "COWL",
+      "address": "0x8B479A1332587B7A616A9b8161772fBdB7FBE85c",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/cowl.png"
+    },
+    {
+      "name": "Coin Xpress",
+      "symbol": "CXP",
+      "address": "0x09bd7872dac502F0B9Af1733665f49065fa6c948",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "CrypDex",
+      "symbol": "CRDX",
+      "address": "0x7601E23f7FB706644c7eFEA5Be0a21f9CA520547",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Crypto Nest",
+      "symbol": "CRN",
+      "address": "0xe40e15f0B597f4e95B4Ed38721842F4aacab864e",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/crn.png"
+    },
+    {
+      "name": "Digital Mint",
+      "symbol": "DMT",
+      "address": "0xbaF1ce77df226f2F9A401a0A65Cd6499f49bEcEA",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Echo Coin",
+      "symbol": "ECH",
+      "address": "0xe2F544325C8c0EF606Fd97a03283E44c1E765006",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Feltrix",
+      "symbol": "FLX",
+      "address": "0xE83cbd6577f16D4bF0bFC7102aAFD2572de458dB",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Flip Token",
+      "symbol": "FLT",
+      "address": "0xe80C4e214889CF8Daf95C0448D4C88b9616Ef27e",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Flux Coin",
+      "symbol": "FLC",
+      "address": "0x52F45c54A16255Cf66bd240b89cAd4f65faf7428",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Fresh Mint",
+      "symbol": "FMT",
+      "address": "0x7a67f2E5c0427948e53e281EF493601e23Eb525d",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Galaxy Coin",
+      "symbol": "GLXY",
+      "address": "0x2099F802CD09e48415fBD16372f942d159e475Eb",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Glow Token",
+      "symbol": "GLT",
+      "address": "0x6AF55BAB49FFE961534C26f425de0D60623066D6",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "Gold byte",
+      "symbol": "GBY",
+      "address": "0xf85ADD24E17cEB2E2052BEE8C19808f2A19a5a5d",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/logo.png"
     }
   ]
 }
