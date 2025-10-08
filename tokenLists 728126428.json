@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-09-01T10:05:42.714Z",
+  "name": "BCSWAP Extended",
+  "version": { "major": 2, "minor": 16, "patch": 524 },
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+  "keywords": ["BCSWAP", "extended"],
+  "tokens": [
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "chainId": 728126428,
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
+    }
+  ]
+}
