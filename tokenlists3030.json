@@ -251,7 +251,7 @@
       "address": "0x6Dbd14dEA7F4cF03A81490812723Dcc4e8BCfa93",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/cvw.png"
     },
     {
       "name": "Coin World",
@@ -356,6 +356,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/logo.png"
+    },
+    {
+      "name": "SCLite",
+      "symbol": "SCLT",
+      "address": "0x4B6f8FE9a88F010d4276B460AC01A04719f43964",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/sclt.png"
     }
   ]
 }
