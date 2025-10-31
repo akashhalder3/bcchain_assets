@@ -355,7 +355,7 @@
       "address": "0xf85ADD24E17cEB2E2052BEE8C19808f2A19a5a5d",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/gby.png"
     },
     {
       "name": "SCLite",
@@ -364,14 +364,6 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/sclt.png"
-    },
-     {
-      "name": "Gold byte",
-      "symbol": "GBY",
-      "address": "0xf85ADD24E17cEB2E2052BEE8C19808f2A19a5a5d",
-      "chainId": 3030,
-      "decimals": 18,
-      "logoURI": "https://bchscan.io/images/gby.png"
     }
   ]
 }
