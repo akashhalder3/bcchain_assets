@@ -364,6 +364,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/sclt.png"
+    },
+    {
+      "name": "Piu Coin",
+      "symbol": "PIU",
+      "address": "0x05cF6f2Be4541edf44b1b5D4b2205acC2CeC1BBC",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/piu.png"
     }
   ]
 }
