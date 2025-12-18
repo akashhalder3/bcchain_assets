@@ -372,6 +372,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/piu.png"
+    },
+    {
+      "name": "Mint Core",
+      "symbol": "MCR",
+      "address": "0xac2d1911ed3ff6c3B3caBD847FD174666C957F20",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/mcr.png"
     }
   ]
 }
