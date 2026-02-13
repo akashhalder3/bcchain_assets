@@ -380,6 +380,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/mcr.png"
+    },
+    {
+      "name": "Saanvi Coin",
+      "symbol": "SNV",
+      "address": "0xa710d27426e6bfb9e871c879fbfd7e4d5af5caaa",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fsnv.png&w=96&q=75"
     }
   ]
 }
