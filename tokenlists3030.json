@@ -388,6 +388,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fsnv.png&w=96&q=75"
+    },
+    {
+      "name": "Royal Sign",
+      "symbol": "RSGN",
+      "address": "0x537a6de7c1262f937449ff10579ae27ed8c889df",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Frsgn.png&w=96&q=75"
     }
   ]
 }
