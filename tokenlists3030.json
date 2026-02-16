@@ -396,6 +396,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Frsgn.png&w=96&q=75"
+    },
+    {
+      "name": "Master Swap",
+      "symbol": "MASP",
+      "address": "0x16c4e7b3b49cc611ebc89b07d36577df2c6ff7fa",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fmasp.png&w=96&q=75"
     }
   ]
 }
