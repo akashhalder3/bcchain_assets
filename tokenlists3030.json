@@ -404,6 +404,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fmasp.png&w=96&q=75"
+    },
+    {
+      "name": "Token Forge",
+      "symbol": "TNF",
+      "address": "0x1581fe0f5e1bb41c7859bcd67e802ab97fc22fd8",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Ftnf.png&w=96&q=75"
     }
   ]
 }
