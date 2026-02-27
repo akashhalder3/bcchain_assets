@@ -412,6 +412,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Ftnf.png&w=96&q=75"
+    },
+    {
+      "name": "CoinJet",
+      "symbol": "CNJ",
+      "address": "0x7e853c8eed63eadb7fb78963e0648aa05450618a",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fcnj.png&w=96&q=75"
     }
   ]
 }
