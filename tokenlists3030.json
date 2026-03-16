@@ -412,6 +412,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Ftnf.png&w=96&q=75"
+    },
+    {
+      "name": "Sky Token",
+      "symbol": "SKT",
+      "address": "0x6d3a6b8d3deb8344cfe5826ccaae52f4aa983a09",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/skt.png"
     }
   ]
 }
