@@ -420,6 +420,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/skt.png"
+    },
+    {
+      "name": "TokenGo",
+      "symbol": "TKG",
+      "address": "0x6218fc656917b83d4d587eaf6ec563d4dfa6e155",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/tkg.png"
     }
   ]
 }
