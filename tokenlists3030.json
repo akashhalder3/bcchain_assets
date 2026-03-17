@@ -428,6 +428,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/tkg.png"
+    },
+    {
+      "name": "Suryantra",
+      "symbol": "SUY",
+      "address": "0x741D412E1D006205a3a3cC7eB61Cea36069F08E3",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/suy.png"
     }
   ]
 }
