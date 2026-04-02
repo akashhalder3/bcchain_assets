@@ -436,6 +436,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/suy.png"
+    },
+    {
+      "name": "Pro Coin",
+      "symbol": "PRC",
+      "address": "0x564d43eff7d67634a7eecab01075c1aa23a16d1d",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/prc.png"
     }
   ]
 }
