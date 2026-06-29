@@ -22,22 +22,6 @@
       "logoURI": "https://bchscan.io/images/usdt.png"
     },
     {
-      "name": "Versatize USD",
-      "symbol": "VUSD",
-      "address": "0xe71AA2666226fec953D6FA3B783E0F729022B6FF",
-      "chainId": 3030,
-      "decimals": 18,
-      "logoURI": "https://bchscan.io/images/vusd.png"
-    },
-    {
-      "name": "Stable Versatize",
-      "symbol": "SVTCN",
-      "address": "0xC8a979A9fd8315cc82c7724a3D8FDCc65256E4C1",
-      "chainId": 3030,
-      "decimals": 18,
-      "logoURI": "https://bchscan.io/images/svtcn.png"
-    },
-    {
       "name": "Wrapped VTCN",
       "symbol": "WVTCN",
       "address": "0x1150Fd1335B0a53347f8Bfb763729a99FbEAB2Ef",
