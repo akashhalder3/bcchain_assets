@@ -428,6 +428,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/prc.png"
+    },
+     {
+      "name": "Pp Coin",
+      "symbol": "PPCN",
+      "address": "0x21f8410f02e514306d6addd4e12477588320ce15",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://bchscan.io/images/ppcn.png"
     }
   ]
 }
