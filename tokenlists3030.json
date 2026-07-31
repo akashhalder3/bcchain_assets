@@ -436,6 +436,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://bchscan.io/images/ppcn.png"
+    },
+    {
+      "name": "Hilobo",
+      "symbol": "HLB",
+      "address": "0xa59120033c834654d255fa7fb836c07d8481afee",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://adminapi.bchscan.io/images/5db21f4466b14f7d81296d69e37a470b.jpg"
     }
   ]
 }
