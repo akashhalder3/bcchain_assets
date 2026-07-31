@@ -11,7 +11,7 @@
       "address": "0x84dE490c00c71a9D131c4caae797144632F56dB6",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/ntcn.png"
+      "logoURI": "https://bchscan.io/images/0x84de490c00c71a9d131c4caae797144632f56db6.png"
     },
     {
       "name": "Tether USD",
@@ -19,7 +19,7 @@
       "address": "0xFe50b757a3336926207463Baa913D5723f2807fa",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/usdt.png"
+      "logoURI": "https://bchscan.io/images/0xfe50b757a3336926207463baa913d5723f2807fa.png"
     },
     {
       "name": "Wrapped VTCN",
@@ -27,7 +27,7 @@
       "address": "0x1150Fd1335B0a53347f8Bfb763729a99FbEAB2Ef",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/token_new_vtcn.png"
+      "logoURI": "https://bchscan.io/images/0x1150fd1335b0a53347f8bfb763729a99fbeab2ef.png"
     },
     {
       "name": "BCSwap V2",
@@ -35,7 +35,7 @@
       "address": "0x2d544e2de729f49ed220F7daa937D11C8c21700c",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x2d544e2de729f49ed220f7daa937d11c8c21700c.png"
     },
     {
       "name": "ADITYA COIN",
@@ -43,7 +43,7 @@
       "address": "0x54044546485517FDC15508B01C4569d577f138c2",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/adi.png"
+      "logoURI": "https://bchscan.io/images/0x54044546485517fdc15508b01c4569d577f138c2.png"
     },
     {
       "name": "AI Coin World",
@@ -51,7 +51,7 @@
       "address": "0x4554CfA23CC1d1ab3722803BAEC8c1410a6a2D96",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/acw.png"
+      "logoURI": "https://bchscan.io/images/0x4554cfa23cc1d1ab3722803baec8c1410a6a2d96.png"
     },
     {
       "name": "APEX COIN",
@@ -59,7 +59,7 @@
       "address": "0x5A3481a7325E562118cBb49b5bD31b99a8d015b3",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/apx.png"
+      "logoURI": "https://bchscan.io/images/0x5a3481a7325e562118cbb49b5bd31b99a8d015b3.png"
     },
     {
       "name": "Aurora Coin",
@@ -67,7 +67,7 @@
       "address": "0x86e72757C9623D54f79f08CC910cc643FD4c442e",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/arc.png"
+      "logoURI": "https://bchscan.io/images/0x86e72757c9623d54f79f08cc910cc643fd4c442e.png"
     },
     {
       "name": "Aurum Coin",
@@ -75,7 +75,7 @@
       "address": "0x45cD9DdC15C95F360a500B29E38c497861dD0792",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x45cd9ddc15c95f360a500b29e38c497861dd0792.png"
     },
     {
       "name": "BC CASH",
@@ -83,7 +83,7 @@
       "address": "0xA61bf608061F0b818f5aC077C7854cBc81B6285e",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/bcch.png"
+      "logoURI": "https://bchscan.io/images/0xa61bf608061f0b818f5ac077c7854cbc81b6285e.png"
     },
     {
       "name": "BLOOM COIN",
@@ -91,7 +91,7 @@
       "address": "0x17A1C3a406E5D3d7E1277864eFdE34B34581da10",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/blc.png"
+      "logoURI": "https://bchscan.io/images/0x17a1c3a406e5d3d7e1277864efde34b34581da10.png"
     },
     {
       "name": "Coinora",
@@ -99,7 +99,7 @@
       "address": "0xfCa0C5153372e2c84310599c89e51E8609dfc9FF",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/cor.png"
+      "logoURI": "https://bchscan.io/images/0xfca0c5153372e2c84310599c89e51e8609dfc9ff.png"
     },
     {
       "name": "Gold Coin",
@@ -107,7 +107,7 @@
       "address": "0xF9094d752e8783FFD5F42d53e24ADE80BC2980d8",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/glc.png"
+      "logoURI": "https://bchscan.io/images/0xf9094d752e8783ffd5f42d53e24ade80bc2980d8.png"
     },
     {
       "name": "Global Business Token",
@@ -115,7 +115,7 @@
       "address": "0x2e2732c071FD433b370d20c49C636f662479106A",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/gbtn.png"
+      "logoURI": "https://bchscan.io/images/0x2e2732c071fd433b370d20c49c636f662479106a.png"
     },
     {
       "name": "Crypto Play Token",
@@ -123,7 +123,7 @@
       "address": "0x108E88cf1E3BA49E3Ce76143cB47E9847F8efaFC",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/cptn.png"
+      "logoURI": "https://bchscan.io/images/0x108e88cf1e3ba49e3ce76143cb47e9847f8efafc.png"
     },
     {
       "name": "Pp Coin",
@@ -131,7 +131,7 @@
       "address": "0x21F8410f02e514306d6aDDD4E12477588320Ce15",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/ppcn.png"
+      "logoURI": "https://bchscan.io/images/0x21f8410f02e514306d6addd4e12477588320ce15.png"
     },
     {
       "name": "Bolt Coin",
@@ -139,7 +139,7 @@
       "address": "0x4bC7D024a484441Fb99bDCdFC74028F146B234A5",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x4bc7d024a484441fb99bdcdfc74028f146b234a5.png"
     },
     {
       "name": "Cedrix",
@@ -147,7 +147,7 @@
       "address": "0x44eEF3639b29805bF1e9bb49b3a1b003Dc1e3092",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x44eef3639b29805bf1e9bb49b3a1b003dc1e3092.png"
     },
     {
       "name": "Chain Edge",
@@ -155,7 +155,7 @@
       "address": "0x9d2895921C00d5dD988E192d7392D10636b58991",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x9d2895921c00d5dd988e192d7392d10636b58991.png"
     },
     {
       "name": "Coin Axis",
@@ -163,7 +163,7 @@
       "address": "0xaa1f87e92A830Ec575450B2978bec91855c639F0",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fcax.png&w=96&q=75"
+      "logoURI": "https://bchscan.io/images/0xaa1f87e92a830ec575450b2978bec91855c639f0.png"
     },
     {
       "name": "Coin Cube",
@@ -171,7 +171,7 @@
       "address": "0x2d18689CE288ee53a696f8c3ad623ecFDF29C157",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x2d18689ce288ee53a696f8c3ad623ecfdf29c157.png"
     },
     {
       "name": "Coinexa",
@@ -179,7 +179,7 @@
       "address": "0xc1160a2c970A7E3eE259aC1F7A2a30416263D342",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xc1160a2c970a7e3ee259ac1f7a2a30416263d342.png"
     },
     {
       "name": "Coin Flow",
@@ -187,7 +187,7 @@
       "address": "0xBf41df4b4E16892437A596b34eD8876bB9A086a4",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xbf41df4b4e16892437a596b34ed8876bb9a086a4.png"
     },
     {
       "name": "Coinish",
@@ -195,7 +195,7 @@
       "address": "0x32C67A0135471EBb5F5d07443468dA8578A4dA59",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x32c67a0135471ebb5f5d07443468da8578a4da59.png"
     },
     {
       "name": "CoinJet",
@@ -203,7 +203,7 @@
       "address": "0x7e853c8eed63eadb7fb78963e0648aa05450618a",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fcnj.png&w=96&q=75"
+      "logoURI": "https://bchscan.io/images/0x7e853c8eed63eadb7fb78963e0648aa05450618a.png"
     },
     {
       "name": "Coin Rise",
@@ -211,7 +211,7 @@
       "address": "0x2E1076e1bb93d570353d1B6f2E5E77AFD005e309",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x2e1076e1bb93d570353d1b6f2e5e77afd005e309.png"
     },
     {
       "name": "Coin Spark",
@@ -219,7 +219,7 @@
       "address": "0xED64a61dC08375370e50f4C4F17DF0b6CFfB07DA",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xed64a61dc08375370e50f4c4f17df0b6cffb07da.png"
     },
     {
       "name": "Coin Vibe",
@@ -227,7 +227,7 @@
       "address": "0xCeD42CFe1D0ceCf920ab6208346750ce5D849523",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xced42cfe1d0cecf920ab6208346750ce5d849523.png"
     },
     {
       "name": "Coin Wave",
@@ -235,7 +235,7 @@
       "address": "0x6Dbd14dEA7F4cF03A81490812723Dcc4e8BCfa93",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/cvw.png"
+      "logoURI": "https://bchscan.io/images/0x6dbd14dea7f4cf03a81490812723dcc4e8bcfa93.png"
     },
     {
       "name": "Coin World",
@@ -243,7 +243,7 @@
       "address": "0x8B479A1332587B7A616A9b8161772fBdB7FBE85c",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/cowl.png"
+      "logoURI": "https://bchscan.io/images/0x8b479a1332587b7a616a9b8161772fbdb7fbe85c.png"
     },
     {
       "name": "Coin Xpress",
@@ -251,7 +251,7 @@
       "address": "0x09bd7872dac502F0B9Af1733665f49065fa6c948",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x09bd7872dac502f0b9af1733665f49065fa6c948.png"
     },
     {
       "name": "CrypDex",
@@ -259,7 +259,7 @@
       "address": "0x7601E23f7FB706644c7eFEA5Be0a21f9CA520547",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x7601e23f7fb706644c7efea5be0a21f9ca520547.png"
     },
     {
       "name": "Crypto Nest",
@@ -267,7 +267,7 @@
       "address": "0xe40e15f0B597f4e95B4Ed38721842F4aacab864e",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/crn.png"
+      "logoURI": "https://bchscan.io/images/0xe40e15f0b597f4e95b4ed38721842f4aacab864e.png"
     },
     {
       "name": "Digital Mint",
@@ -275,7 +275,7 @@
       "address": "0xbaF1ce77df226f2F9A401a0A65Cd6499f49bEcEA",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xbaf1ce77df226f2f9a401a0a65cd6499f49becea.png"
     },
     {
       "name": "Echo Coin",
@@ -283,7 +283,7 @@
       "address": "0xe2F544325C8c0EF606Fd97a03283E44c1E765006",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/ech.png"
+      "logoURI": "https://bchscan.io/images/0xe2f544325c8c0ef606fd97a03283e44c1e765006.png"
     },
     {
       "name": "Feltrix",
@@ -291,7 +291,7 @@
       "address": "0xE83cbd6577f16D4bF0bFC7102aAFD2572de458dB",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xe83cbd6577f16d4bf0bfc7102aafd2572de458db.png"
     },
     {
       "name": "Flip Token",
@@ -299,7 +299,7 @@
       "address": "0xe80C4e214889CF8Daf95C0448D4C88b9616Ef27e",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0xe80c4e214889cf8daf95c0448d4c88b9616ef27e.png"
     },
     {
       "name": "Flux Coin",
@@ -307,7 +307,7 @@
       "address": "0x52F45c54A16255Cf66bd240b89cAd4f65faf7428",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x52f45c54a16255cf66bd240b89cad4f65faf7428.png"
     },
     {
       "name": "Fresh Mint",
@@ -315,7 +315,7 @@
       "address": "0x7a67f2E5c0427948e53e281EF493601e23Eb525d",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x7a67f2e5c0427948e53e281ef493601e23eb525d.png"
     },
     {
       "name": "Galaxy Coin",
@@ -323,7 +323,7 @@
       "address": "0x2099F802CD09e48415fBD16372f942d159e475Eb",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x2099f802cd09e48415fbd16372f942d159e475eb.png"
     },
     {
       "name": "Glow Token",
@@ -331,7 +331,7 @@
       "address": "0x6AF55BAB49FFE961534C26f425de0D60623066D6",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/logo.png"
+      "logoURI": "https://bchscan.io/images/0x6af55bab49ffe961534c26f425de0d60623066d6.png"
     },
     {
       "name": "Gold byte",
@@ -339,7 +339,7 @@
       "address": "0xf85ADD24E17cEB2E2052BEE8C19808f2A19a5a5d",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/gby.png"
+      "logoURI": "https://bchscan.io/images/0xf85add24e17ceb2e2052bee8c19808f2a19a5a5d.png"
     },
     {
       "name": "SCLite",
@@ -347,7 +347,7 @@
       "address": "0x4B6f8FE9a88F010d4276B460AC01A04719f43964",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/sclt.png"
+      "logoURI": "https://bchscan.io/images/0x4b6f8fe9a88f010d4276b460ac01a04719f43964.png"
     },
     {
       "name": "Piu Coin",
@@ -355,7 +355,7 @@
       "address": "0x05cF6f2Be4541edf44b1b5D4b2205acC2CeC1BBC",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/piu.png"
+      "logoURI": "https://bchscan.io/images/0x05cf6f2be4541edf44b1b5d4b2205acc2cec1bbc.png"
     },
     {
       "name": "Mint Core",
@@ -363,7 +363,7 @@
       "address": "0xac2d1911ed3ff6c3B3caBD847FD174666C957F20",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/mcr.png"
+      "logoURI": "https://bchscan.io/images/0xac2d1911ed3ff6c3b3cabd847fd174666c957f20.png"
     },
     {
       "name": "Saanvi Coin",
@@ -371,7 +371,7 @@
       "address": "0xa710d27426e6bfb9e871c879fbfd7e4d5af5caaa",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fsnv.png&w=96&q=75"
+      "logoURI": "https://bchscan.io/images/0xa710d27426e6bfb9e871c879fbfd7e4d5af5caaa.png"
     },
     {
       "name": "Royal Sign",
@@ -379,7 +379,7 @@
       "address": "0x537a6de7c1262f937449ff10579ae27ed8c889df",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Frsgn.png&w=96&q=75"
+      "logoURI": "https://bchscan.io/images/0x537a6de7c1262f937449ff10579ae27ed8c889df.png"
     },
     {
       "name": "Master Swap",
@@ -387,7 +387,7 @@
       "address": "0x16c4e7b3b49cc611ebc89b07d36577df2c6ff7fa",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Fmasp.png&w=96&q=75"
+      "logoURI": "https://bchscan.io/images/0x16c4e7b3b49cc611ebc89b07d36577df2c6ff7fa.png"
     },
     {
       "name": "Token Forge",
@@ -395,7 +395,7 @@
       "address": "0x1581fe0f5e1bb41c7859bcd67e802ab97fc22fd8",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/_next/image?url=%2Fimages%2Ftnf.png&w=96&q=75"
+      "logoURI": "https://bchscan.io/images/0x1581fe0f5e1bb41c7859bcd67e802ab97fc22fd8.png"
     },
     {
       "name": "Sky Token",
@@ -403,7 +403,7 @@
       "address": "0x6d3a6b8d3deb8344cfe5826ccaae52f4aa983a09",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/skt.png"
+      "logoURI": "https://bchscan.io/images/0x6d3a6b8d3deb8344cfe5826ccaae52f4aa983a09.png"
     },
     {
       "name": "TokenGo",
@@ -411,7 +411,7 @@
       "address": "0x6218fc656917b83d4d587eaf6ec563d4dfa6e155",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/tkg.png"
+      "logoURI": "https://bchscan.io/images/0x6218fc656917b83d4d587eaf6ec563d4dfa6e155.png"
     },
     {
       "name": "Suryantra",
@@ -419,7 +419,7 @@
       "address": "0x741D412E1D006205a3a3cC7eB61Cea36069F08E3",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/suy.png"
+      "logoURI": "https://bchscan.io/images/0x741d412e1d006205a3a3cc7eb61cea36069f08e3.png"
     },
     {
       "name": "Pro Coin",
@@ -427,15 +427,15 @@
       "address": "0x564d43eff7d67634a7eecab01075c1aa23a16d1d",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/prc.png"
+      "logoURI": "https://bchscan.io/images/0x564d43eff7d67634a7eecab01075c1aa23a16d1d.png"
     },
-     {
+    {
       "name": "Pp Coin",
       "symbol": "PPCN",
       "address": "0x21f8410f02e514306d6addd4e12477588320ce15",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/ppcn.png"
+      "logoURI": "https://bchscan.io/images/0x21f8410f02e514306d6addd4e12477588320ce15.png"
     },
     {
       "name": "Hilobo",
@@ -443,7 +443,7 @@
       "address": "0xa59120033c834654d255fa7fb836c07d8481afee",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://adminapi.bchscan.io/images/5db21f4466b14f7d81296d69e37a470b.jpg"
+      "logoURI": "https://bchscan.io/images/0xa59120033c834654d255fa7fb836c07d8481afee.png"
     }
   ]
 }
