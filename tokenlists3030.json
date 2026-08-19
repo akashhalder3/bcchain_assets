@@ -347,7 +347,7 @@
       "address": "0x4B6f8FE9a88F010d4276B460AC01A04719f43964",
       "chainId": 3030,
       "decimals": 18,
-      "logoURI": "https://bchscan.io/images/0x4b6f8fe9a88f010d4276b460ac01a04719f43964.png"
+      "logoURI": "https://adminapi.bchscan.io/images/0x4b6f8fe9a88f010d4276b460ac01a04719f43964.png"
     },
     {
       "name": "Piu Coin",
