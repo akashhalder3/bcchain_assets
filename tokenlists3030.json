@@ -444,6 +444,14 @@
       "chainId": 3030,
       "decimals": 18,
       "logoURI": "https://adminapi.bchscan.io/images/0xa59120033c834654d255fa7fb836c07d8481afee.png"
+    },
+    {
+      "name": "ACW HITECH",
+      "symbol": "ACWH",
+      "address": "0x661bc4094c0e6651872a0dab56ddc5c6584af849",
+      "chainId": 3030,
+      "decimals": 18,
+      "logoURI": "https://adminapi.bchscan.io/images/0x661bc4094c0e6651872a0dab56ddc5c6584af849.png"
     }
   ]
 }
